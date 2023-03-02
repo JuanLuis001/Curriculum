@@ -1,2 +1,2 @@
 # Curriculum
-Hola :)
+Proyecto para desarrollo de aplicaciones web
