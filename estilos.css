@@ -1,0 +1,264 @@
+body{
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+h1{
+
+    font-family: 'Popins', sans-serif;
+    color: white;
+}
+
+h2{
+   
+    font-family: 'Roboto', sans-serif;
+}
+
+h3{
+   
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#titulo{
+
+    margin-top: 50px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+    #nombre{
+
+        display: inline-block;
+        margin-left: 30px;
+        vertical-align: 100px;
+    }
+        #nh1{
+            font-size: 33px;
+        }
+        #nh2{
+
+            margin-bottom: -20px;
+            color: white;
+        }
+        #nh3{
+            color: white;
+            font-size: 16px;
+            margin-top: -45px;
+        }
+
+        #fdp{
+            border-radius: 100%;
+            border: white inset 5px;
+            padding: 15px;
+            margin-left: 240px;
+            margin-top: 45px;
+
+        }
+
+#insta{
+
+    margin-top: 20px;
+    margin-left: 590px;
+    margin-right: 10px;
+}
+
+#pinfo{
+
+    font-size: 11px;
+    color: white;
+    margin-left: 593px;
+    margin-bottom: -20px;
+    margin-top: -80px;
+    font-weight: bolder;
+
+
+}
+
+/* +---------------------------------- SOFTWARE ----------------------------------+ */ 
+#tpag{
+    font-size: 20px;
+    margin-left: 555px;
+    margin-top: 35px;
+    margin-bottom: -10px;
+}
+
+#sih3{
+
+    color: white;
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+#sih2{
+
+    margin-top: -30px;
+    color: white;
+    font-size: 10px;
+    font-weight: lighter;
+}
+
+#sih22{
+
+    color: white;
+    font-size: 10px;
+    font-weight: lighter;
+    margin-left: 525px;
+    margin-top: -28px;
+    margin-bottom: 30px;
+
+
+}
+
+#soft{
+
+}
+    #cph{
+
+        margin-left: 350px;
+        margin-right: 350px;
+        background-image: url("PFONDO.png");
+        background-size: 100%;
+        border-radius: 35px;
+    }
+        #Photoshop{
+
+            display: inline-block;
+            vertical-align: 70px; 
+        }
+            #fph{
+                margin-left: 60px;
+            }
+
+        
+    #cbl{
+
+        margin-top: 10px;
+        margin-left: 350px;
+        margin-right: 350px;
+        background-image: url("BFONDO.png");
+        background-size: 100%;
+        border-radius: 35px;
+    }
+        #Blender{
+
+            display: inline-block;
+            vertical-align: 70px;      
+        }
+            #fbl{
+                 margin-left: 60px;
+            }
+                
+         
+    #cca{
+
+        margin-top: 10px;
+        margin-left: 350px;
+        margin-right: 350px;
+        background-image: url("CFONDO.png");
+        background-size: 100%;
+        border-radius: 35px;
+    }
+        #Canva{
+
+            display: inline-block;
+            vertical-align: 70px; 
+        }
+            #fca{
+                margin-left: 60px;
+            }
+
+
+/* +---------------------------------- DISEÑO DIGITAL ----------------------------------+ */ 
+
+#tdidi{
+
+    font-size: 20px;
+    margin-left: 500px;
+    margin-top: 35px;
+    margin-bottom: -10px;
+}
+
+
+/* +---------------------------------- BARRA DE NAVEGACIÓN ----------------------------------+ */ 
+
+a{
+    font-size: 12px;
+    color: white;
+    
+}
+
+a:hover{
+
+    background: white;
+    color: black;
+    padding: 4px;
+}
+
+a:active{
+
+    background: white;
+    color: white;
+    padding: 5px;
+}
+
+#nave{
+
+    margin-left: 450px;
+    margin-top: 50px;
+}
+
+#opciones li{
+
+    display: inline;
+    padding-left: 15px;
+    padding-right:15px;
+    padding-top: 5px;
+    padding-bottom: 5px; 
+}
+
+#opcionesmo3d li{
+
+    display: inline;
+    padding-left: 15px;
+    padding-right:15px;
+    padding-top: 5px;
+    padding-bottom: 5px;    
+}
+
+#opcionessoft li{
+
+    display: inline;
+    padding-left: 15px;
+    padding-right:15px;
+    padding-top: 5px;
+    padding-bottom: 5px;     
+}
+
+#opcionesfoto li{
+
+    display: inline;
+    padding-left: 15px;
+    padding-right:15px;
+    padding-top: 5px;
+    padding-bottom: 5px;      
+}
+
+#opcionesdidi li{
+
+    display: inline;
+    padding-left: 15px;
+    padding-right:15px;
+    padding-top: 5px;
+    padding-bottom: 5px;     
+}
+
+#opcionescont li{
+
+    display: inline;
+    padding-left: 15px;
+    padding-right:15px;
+    padding-top: 5px;
+    padding-bottom: 5px;   
+}
+
