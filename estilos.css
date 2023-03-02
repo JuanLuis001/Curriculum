@@ -184,7 +184,7 @@ h3{
     color: white;
     font-size: 10px;
     font-weight: lighter;
-    margin-left: 535px;
+    margin-left: 560px;
     margin-top: -28px;
     margin-bottom: 30px;
 }
@@ -324,7 +324,91 @@ h3{
     border-radius: 10px;
 }
 
+/* +---------------------------------- CONTÁCTAME ----------------------------------+ */ 
 
+#tcont{
+
+    font-size: 20px;
+    margin-left: 300px;
+    margin-top: 40px;
+    margin-bottom: -10px;
+}
+
+#form{
+    background-color: #262626;
+    margin-left: 300px;
+    margin-right: 767px;
+    border-radius: 10px;
+    
+}
+
+#contn{
+    border: #262626 solid;
+    border-radius: 10px;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+    #ns{
+
+        margin-bottom: -10px;
+        font-family: Arial, Helvetica, sans-serif;
+        color: white;
+        font-weight: bold;
+        font-size: 11px;
+
+    }
+        #pnombre{
+            
+            border: 0px;
+            background-color: white;
+            border-radius: 5px;
+        }
+
+
+
+#conti{
+    border: #262626 solid;
+    margin-top: 15px;
+    margin-left: 15px;
+    
+}
+    #msgs{
+
+        margin-bottom: -10px;
+        font-family: Arial, Helvetica, sans-serif;
+        color: white;
+        font-weight: bold;
+        font-size: 11px;
+       
+    }
+        #pmsg{
+            
+            border: 0px;
+            border-radius: 5px;
+            padding-bottom: 90px;
+        }
+
+
+#b{
+
+    font-size: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    padding-left: 5px;
+    font-weight: lighter;
+    padding-right: 5px;
+}
+
+#butt{
+
+    border:  0px;
+    margin-left: 15px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    background-color: white;
+    
+}
 /* +---------------------------------- BARRA DE NAVEGACIÓN ----------------------------------+ */ 
 
 a{

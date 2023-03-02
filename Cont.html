@@ -11,8 +11,6 @@
 
 <body>
 
-
-
     <nav id="nave">
         
         <ul id="opcionescont">
@@ -44,20 +42,44 @@
 
     </nav>
 
-    <header>
-        <br>
-        <h3>CONTÁCTAME</h3>
-    </header>
+    <header id="tcont"> <h1>CONTÁCTAME</h1></header>
 
-    <form action="html5-formularios.php" method="post"> 
 
-    <label for="nombre">Nombre:</label>  
-    <input name="nombre" id="nombre" type="text">  
-    <br>
-    <label for="msg">Mensaje:</label>  
-    <input name="msg" id="msg" placeholder="Déjame tu mensaje, y te responderé en breve" size="50px"> 
+    <form action="html5-formularios.php" method="post" id="form"> 
 
-    <button type="submit">ENVIAR</button> 
+        <div id="contn">
+
+            <label for="nombre" id="lab1">
+
+                <div id="ns">
+
+                    <h2>NOMBRE</h2>
+                </div>
+            </label>
+
+            <input name="nombre" type="text" id="pnombre" >  
+        </div>
+        
+        <div id="conti">
+            <label for="msg" id="lab2">
+
+                <div id="msgs">
+
+                    <h2>MENSAJE</h2>
+                </div>
+            </label>  
+
+            <input name="msg" id="pmsg" placeholder="Déjame tu mensaje aquií"> 
+        </div>
+
+        <button type="submit" id="butt">
+            <div id="b">
+
+                <h2>ENVIAR</h2>
+            </div>
+            
+        
+        </button> 
     </form>
 
 
